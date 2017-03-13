@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{B91EABD3-E17B-4E7B-BA56-97A19CB21D11}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinFormDemo/Views/HomeForm.cs">
+    <Files>
+      <File FileName="XamarinFormDemo/Views/HomeForm.cs" Line="13" Column="80" />
+      <File FileName="XamarinFormDemo/App.cs" Line="15" Column="34" />
+      <File FileName="XamarinFormDemo/Views/LoginForm.cs" Line="140" Column="17" />
+      <File FileName="XamarinFormDemo/Data/RestService.cs" Line="55" Column="1" />
+      <File FileName="XamarinFormDemo/Views/RegisterForm.cs" Line="88" Column="94" />
+      <File FileName="XamarinFormDemo/Model/UserInfo.cs" Line="53" Column="33" />
+      <File FileName="XamarinFormDemo/Model/Users.cs" Line="1" Column="1" />
+      <File FileName="XamarinFormDemo/Data/logger.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinFormDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5DCB4039-05A6-43F5-9CEB-D4FA64365621" />
+  <MultiItemStartupConfigurations />
+</Properties>
